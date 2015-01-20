@@ -70,10 +70,10 @@ public class PruebaXls {
         //Creo conexion al AS400 por cada archivo se hace una conexion
         Connection conectado401 = null;
         //String database401 = "amsdsgr.phpven";
-        String database401 = "atgdsgr.rsldsk01";
-        String ipserver = "192.168.2.118";
-        String user = "USRCLIENTE";
-        String pass = "CLIENTE";
+        String database401 = ********;
+        String ipserver = *********;
+        String user = *****;
+        String pass = *****;
 
         //obtengo el año actual
         Calendar c1 = Calendar.getInstance();
